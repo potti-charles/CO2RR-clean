@@ -1,0 +1,33 @@
+{
+  "min_text_chars": 1500,
+  "max_input_chars": 55000,
+  "primary": {
+    "backend": "local_lora",
+    "model": "Qwen2.5-7B-Instruct+co2rr-enriched-v7",
+    "adapter_path": "../LoRA_LLM_For_CO2RR/lora_checkpoints_json_enriched_v7",
+    "adapter_path_env": "CO2RR_LORA_ADAPTER_PATH",
+    "base_model": null,
+    "base_model_env": "CO2RR_LORA_BASE_MODEL",
+    "device_map": "auto",
+    "dtype": "float16",
+    "load_in_4bit": false,
+    "max_input_length": 1024,
+    "max_new_tokens": 256,
+    "max_retries": 2,
+    "chunk_overlap_tokens": 96,
+    "max_chunks": 64
+  },
+  "allow_api_fallback": true,
+  "fallback": {
+    "backend": "api",
+    "base_url": "https://api.deepseek.com/v1",
+    "base_url_env": "DEEPSEEK_BASE_URL",
+    "model": "deepseek-chat",
+    "api_key_env": "DEEPSEEK_API_KEY",
+    "temperature": 0,
+    "max_tokens": 3500,
+    "timeout": 180,
+    "response_format": true
+  },
+  "reviewer": null
+}

@@ -1,0 +1,7 @@
+# Optional local LoRA inference / relation extraction; weights are not included.
+-r requirements-tools.txt
+torch>=2.4,<3
+transformers>=4.46,<5
+peft>=0.14,<0.19
+accelerate
+bitsandbytes; sys_platform == "linux"

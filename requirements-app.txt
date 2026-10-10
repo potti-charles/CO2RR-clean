@@ -1,0 +1,6 @@
+# Application dependencies; verified with Gradio 6.24.0.
+gradio>=6.24,<7
+numpy>=1.26,<3
+openai>=1.0,<4
+pandas>=2.0,<3
+scikit-learn>=1.4,<2

@@ -1,0 +1,494 @@
+[
+  {
+    "pdf_file": "Advanced Materials - 2021 - Majidi - 2D Copper Tetrahydroxyquinone Conductive Metal Organic Framework for Selective CO2.pdf",
+    "doi": "10.1002/adma.202004393",
+    "title": "2D Copper Tetrahydroxyquinone Conductive Metal-Organic Framework for Selective CO2 Electrocatalysis at Low Overpotentials",
+    "sample_only": true,
+    "full_text_chars": 1151,
+    "sections": {
+      "abstract": "2004393  (1 of 8)\n© 2021 Wiley-VCH GmbH\nwww.advmat.de\nCommunication\n2D Copper Tetrahydroxyquinone Conductive Metal–Organic \nFramework for Selective CO2 Electrocatalysis at Low \nOverpotentials\nLeily Majidi, Alireza Ahmadiparidari, Nannan Shan, Saurabh N. Misal, Khagesh Kumar, \nZhehao Huang, Sina Rastegar, Zahra Hemmat, Xiaodong Zou, Peter Zapol, \nJordi Cabana, Larry A. Curtiss,* and Amin Salehi-Khojin*\nL. Majidi, A. Ahmadiparidari, S. N. Misal, S. Rastegar,  \nZ. Hemmat, Prof. A. Salehi-Khojin\nDepartment of Mechanical and Industrial Engineering\nUniversity of Illinois at Chicago\nChicago, IL 60607, USA\nDr. N. Shan, Dr. P. Zapol, Dr. L. A. Curtiss\nMaterials Science Division\nArgonne National Laboratory\nLemont, IL 60439, USA\nK. Kumar, Prof. J. Cabana\nDepartment of Chemistry\nUniversity of Illinois at Chicago\nChicago, IL 60607, USA\nDr. Z. Huang, Prof. X. Zou\nDepartment of Materials and Environmental Chemistry\nStockholm University\nStockholm 10691, Sweden\nThe ORCID identification number(s) for the author(s) of this article \ncan be found under https://doi.org/10.1002/adma.202004393.\nDOI: 10.1002/adma.202004393\nGrowing worldwide energy demand and",
+      "experimental": "",
+      "results": "",
+      "conclusion": ""
+    },
+    "summary": "2004393  (1 of 8)\n© 2021 Wiley-VCH GmbH\nwww.advmat.de\nCommunication\n2D Copper Tetrahydroxyquinone Conductive Metal–Organic \nFramework for Selective CO2 Electrocatalysis at Low \nOverpotentials\nLeily Majidi, Alireza Ahmadiparidari, Nannan Shan, Saurabh N. Misal, Khagesh Kumar, \nZhehao Huang, Sina Rastegar, Zahra Hemmat, Xiaodong Zou, Peter Zapol, \nJordi Cabana, Larry A. Curtiss,* and Amin Salehi-Khojin*\nL. Majidi, A. Ahmadiparidari, S. N. Misal, S. Rastegar,  \nZ. Hemmat, Prof. A. Salehi-Khojin\nDepartment of Mechanical and Industrial Engineering\nUniversity of Illinois at Chicago\nChicago, IL 60607, USA\nDr. N. Shan, Dr. P. Zapol, Dr. L. A. Curtiss\nMaterials Science Division\nArgonne National Laboratory\nLemont, IL 60439, USA\nK. Kumar, Prof. J. Caba",
+    "records": [
+      {
+        "doi": "10.1002/adma.202004393",
+        "title": "2D Copper Tetrahydroxyquinone Conductive Metal-Organic Framework for Selective CO2 Electrocatalysis at Low Overpotentials",
+        "year": "2021.0",
+        "catalyst_name": "Copper Tetrahydroxyquinone Conductive Metal-Organic Framework",
+        "catalyst_type": "Cu-MOF",
+        "product_raw": "CO",
+        "product": "CO",
+        "fe_pct": "91.0",
+        "voltage_V": "0.45",
+        "electrolyte": "KOH",
+        "cell_setup": "flow cell",
+        "current_density_mA_cm2": "",
+        "synthesis_method": "other; wet chemical synthesis",
+        "product_rank": "",
+        "is_representative": "",
+        "voltage_reference": "",
+        "evidence_text": "",
+        "evidence_section": "",
+        "extraction_model": "",
+        "review_model": "",
+        "review_status": "",
+        "ingested_at": "",
+        "source_pdf": ""
+      }
+    ]
+  },
+  {
+    "pdf_file": "Adv Materials Inter - 2018 - Wang - Facile Synthesis of Nanostructural High⌐\\Performance Cu Pb Electrocatalysts for CO2.pdf",
+    "doi": "10.1002/admi.201801200",
+    "title": "Facile Synthesis of Nanostructural High-Performance Cu-Pb Electrocatalysts for CO2 Reduction",
+    "sample_only": true,
+    "full_text_chars": 3600,
+    "sections": {
+      "abstract": "www.advmatinterfaces.de\nFULL PAPER\n1801200  (1 of 7)\n© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim\nFacile Synthesis of Nanostructural High-Performance  \nCu–Pb Electrocatalysts for CO2 Reduction\nYutian Wang, Hanjun Hu, Yufan Sun, Yang Tang,* Liming Dai, Qing Hu, Adrian Fisher, \nand Xiao Jin Yang*\nDOI: 10.1002/admi.201801200\n1. Introduction\nCO2 electroreduction (CO2ER) to chemi-\ncals and fuels by renewable electricity is \na promising strategy to cope with climate \nchange and fossil fuel depletion crisis.[1–4]  \nIn the electrolysis process, hydrogen \nevolution overwhelms CO2 reduction and \ntherefore highly efficient electrocatalysts \nare required to regulate the competition \nbetween hydrogen evolution and CO2 \nreduction.[5–7] Development of nonnoble \nmetal catalysts is essential for large-\nscale applications and transition metals \nare of great potential as catalysts for \nCO2ER.[8,9] Of transition metals, Cu and \npost-transition metals (Pb, Sn, In, Bi) are \npromising materials, primarily because \nof Cu’s low cost, high abundance, and \ncatalytic activity and the post-transition \nmetals’ high overpotentials of H2 evolu-\ntion.[10] Among these four post-transition \nmetals, Pb exhibits ",
+      "experimental": "",
+      "results": "Annealing treatment for Cu particles and \ncommercial Cu foils is highly efficient to pro-\nduce Cu nanostructures.[21,35,36] In this study, \nnickel foam (NF) was employed as a 3D \nframework substrate because of its large spe-\ncific surface area, exceptional mechanical and thermal strength. \nCu was electrochemically deposited on the NF and then \nannealed in air at 500 °C followed by electrochemical reduction \nof the resultant Cu oxides. As such, Cu NWs with diameters \nof 200–400 nm were densely grown on the porous Ni skeleton \n(Figure 1a,b). The electrodeposition of Pb on the surface of Cu \nNWs produced clusters of irregularly and unevenly distributed \npolygonal Pb particles (labeled Pbed/Cu NWs, see Figure 1c,d). \nUpon annealing at 300 °C in air and electrochemical reduction, \nthe irregular polygonal structures were transformed into NPs \nof 5–10 nm, which were uniformly distributed on the surface of \nCu NWs (labeled Pbar/Cu NWs, see Figure 1e,f). The transmis-\nsion electron microscope (TEM) characterization (Figure 1g,h) \nshows that the lattice distance in shell area is 0.310  nm, \nrepresenting the (111) plane of Pb2O (PDF#75-0201), which \nwas due to the oxidation of lead by air dur",
+      "conclusion": "3D hierarchical nanostructures of Cu–Pb electrocatalysts for \nhigh-performance CO2 reduction have been susscesfully pre-\npared by EAE on NFs. Cu was electrodeposited onto Ni foams \nin 0.5  m CuSO4 and 1.0  m H2SO4 solutions and subsequent \nannealing treatment at 500  °C followed by electroreduction \nin 0.5  m KHCO3 solution produced Cu NWs of 200–400  nm \ndiameter. Pb clusters were then electrodeposited onto the Cu \nNWs and uniformly re-distributed in particle sizes of 5–10 nm \nby annealing treatment. The preparation procedure is simple \nand straightforward in producing hierarchical nanostruc-\ntures of Cu–Pb bimetal catalysts. FEs of 19.2%, 50.6%, and \n22.0% for H2, CO, and HCOOH with a total current density \nof −9.35 mA cm−2 at −0.93 V versus RHE were obtained by the \nCu–Pb catalyst with Pb decoration of 30 C. The CO/H2 ratios \nwere in the range of typical syngas for industrial Fischer–\nTropsch synthesis. The use of Ni foams as porous 3D sub-\nstrates through electrodeposition and annealing treatment is of \ngreat potential to tune the catalytic activity of bimetal catalysts \nfor efficient electroreduction of CO2.\n4. Experimental Section\nChemicals: NF of 1.5 mm thickness (99.8% puri"
+    },
+    "summary": "www.advmatinterfaces.de\nFULL PAPER\n1801200  (1 of 7)\n© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim\nFacile Synthesis of Nanostructural High-Performance  \nCu–Pb Electrocatalysts for CO2 Reduction\nYutian Wang, Hanjun Hu, Yufan Sun, Yang Tang,* Liming Dai, Qing Hu, Adrian Fisher, \nand Xiao Jin Yang*\nDOI: 10.1002/admi.201801200\n1. Introduction\nCO2 electroreduction (CO2ER) to chemi-\ncals and fuels by renewable electricity is \na promising strategy to cope with climate \nchange and fossil fuel depletion crisis.[1–4]  \nIn the electrolysis process, hydrogen \nevolution overwhelms CO2 reduction and \ntherefore highly efficient electrocatalysts \nare required to regulate the competition \nbetween hydrogen evolution and CO2 \nreduction.[5–7] Development of nonnoble \nmetal catalysts is essential for large",
+    "records": [
+      {
+        "doi": "10.1002/admi.201801200",
+        "title": "Facile Synthesis of Nanostructural High-Performance Cu-Pb Electrocatalysts for CO2 Reduction",
+        "year": "2018.0",
+        "catalyst_name": "Cu-Pb Electrocatalysts",
+        "catalyst_type": "Cu-M",
+        "product_raw": "CO",
+        "product": "CO",
+        "fe_pct": "50.6",
+        "voltage_V": "-0.93",
+        "electrolyte": "KHCO3",
+        "cell_setup": "h-type cell",
+        "current_density_mA_cm2": "",
+        "synthesis_method": "electrodeposition; thermal treatment",
+        "product_rank": "",
+        "is_representative": "",
+        "voltage_reference": "",
+        "evidence_text": "",
+        "evidence_section": "",
+        "extraction_model": "",
+        "review_model": "",
+        "review_status": "",
+        "ingested_at": "",
+        "source_pdf": ""
+      }
+    ]
+  },
+  {
+    "pdf_file": "Adv Funct Materials - 2021 - Jia - Symmetry⌐\\Broken Au Cu Heterostructures and their Tandem Catalysis Process in.pdf",
+    "doi": "10.1002/adfm.202101255",
+    "title": "Symmetry-Broken Au-Cu Heterostructures and their Tandem Catalysis Process in Electrochemical CO2 Reduction",
+    "sample_only": true,
+    "full_text_chars": 3600,
+    "sections": {
+      "abstract": "www.afm-journal.de\n© 2021 Wiley-VCH GmbH\n2101255  (1 of 11)\nResearch Article\nSymmetry-Broken Au–Cu Heterostructures and their \nTandem Catalysis Process in Electrochemical CO2 Reduction\nHenglei Jia, Yuanyuan Yang, Tsz Him Chow, Han Zhang, Xiyue Liu, Jianfang Wang,* \nand Chun-yang Zhang*\nSymmetry-breaking synthesis of colloidal nanocrystals with desired structures \nand properties has aroused widespread interest in various fields, but the \nlack of robust synthetic protocols and the complex growth kinetics limit their \npractical applications. Herein, a general strategy is developed to synthesize \nthe Au–Cu Janus nanocrystals (JNCs) through the site-selective growth of Cu \nnanodomains on Au nanocrystals, which is directed by the substantial lattice \nmismatch between them, with the assistance of judicious manipulation of the \ngrowth kinetics. This strategy can work on Au nanocrystals with different archi-\ntectures for the achievement of diverse asymmetric Au–Cu hybrid nanostruc-\ntures. Of particular note, the obtained Au nanobipyramids (Au NBPs)-based \nJNCs facilitate the conversion of CO2 to C2 hydrocarbon production during elec-\ntrocatalysis, with the Faradaic efficiency and maximum pa",
+      "experimental": "",
+      "results": "Scheme 1a illustrates the site-selective growth process of a Cu \nnanodomain on the side surface of a Au NBP to produce the Au \nNBP–side Cu JNCs (Au NBP–Cu JNCs). Each Au NBP featuring \na fivefold rotational symmetry structure and consisting of two \nbase-stacked pentagonal pyramids[50] is utilized as the seed. The \ncrystalline structure of a Au NBP is depicted in Figure S1, Sup-\nporting Information, with each NBP being encapsulated with \n10 facets.[51,52] The side facets are stepped periodically along the \nlength direction to form the high-index {116} facets.[50,51] Cu \natoms are expected to initially nucleate on one high-index {116} \nfacet, because the Au atoms at the steps are generally coordi-\nnately unsaturated and are more active for the nucleation of \nCu (Scheme 1a, the first step). Due to the considerable lattice \nmismatch (≈11.4%) between Au and Cu,[49] the growth of Cu on \nthe Au NBPs prefers to adopt the classic Volmer–Weber model \nthrough a 3D island growth (Scheme 1a, the second step).[49,53] \nFurther deposition of Cu atoms will mainly take place at the \noriginal Cu surface in order to minimize new interfacial free \nenergy resulting from the Au–Cu nanointerface (Scheme  ",
+      "conclusion": "In summary, a facile and general wet-chemistry method is \ndeveloped for the synthesis of spatially separated Au NBP–Cu \nhybrid nanostructures on the basis of a large lattice mismatch \nbetween them. The concentrations of CTAB and HDA play \ncrucial roles in the overgrowth of Cu nanodomains on the Au \nNBPs and determine the morphology of the Au–Cu nanostruc-\ntures. The proposed synthesis method can be simply extended \nto other Au nanocrystals from 0D to 2D, enabling the produc-\ntion of diverse asymmetric Au–Cu nanostructures. In addition, \nthe spatial-separation design of the Au–Cu heterostructure \npossesses distinct advantages over the Cu NSs in the activity \nand selectivity of C2 production. The optimal FE value and \nmaximum partial current density of the Au NBP–Cu JNCs are \n4.1-fold and 6.4-fold compared with those of Cu counterparts. \nThis can be ascribed to the tandem catalysis process promoted \nby the hybrid nanostructure and the high-index facets on the \nAu NBPs. This research provides an alternative strategy for \nthe synthesis of spatially separated hybrid nanoblocks for effi-\ncient electrochemical reactions, and it opens a new avenue for \npursuing high-efficiency catalysis th"
+    },
+    "summary": "www.afm-journal.de\n© 2021 Wiley-VCH GmbH\n2101255  (1 of 11)\nResearch Article\nSymmetry-Broken Au–Cu Heterostructures and their \nTandem Catalysis Process in Electrochemical CO2 Reduction\nHenglei Jia, Yuanyuan Yang, Tsz Him Chow, Han Zhang, Xiyue Liu, Jianfang Wang,* \nand Chun-yang Zhang*\nSymmetry-breaking synthesis of colloidal nanocrystals with desired structures \nand properties has aroused widespread interest in various fields, but the \nlack of robust synthetic protocols and the complex growth kinetics limit their \npractical applications. Herein, a general strategy is developed to synthesize \nthe Au–Cu Janus nanocrystals (JNCs) through the site-selective growth of Cu \nnanodomains on Au nanocrystals, which is directed by the substantial lattice \nmismatch between them, with the assistance of",
+    "records": [
+      {
+        "doi": "10.1002/adfm.202101255",
+        "title": "Symmetry-Broken Au-Cu Heterostructures and their Tandem Catalysis Process in Electrochemical CO2 Reduction",
+        "year": "2021.0",
+        "catalyst_name": "Au-Cu Heterostructures",
+        "catalyst_type": "Cu-M",
+        "product_raw": "C2H4",
+        "product": "C2H4",
+        "fe_pct": "41.5",
+        "voltage_V": "-0.981",
+        "electrolyte": "KHCO3",
+        "cell_setup": "h-type cell",
+        "current_density_mA_cm2": "",
+        "synthesis_method": "site-selective  growth  process; wet chemical synthesis",
+        "product_rank": "",
+        "is_representative": "",
+        "voltage_reference": "",
+        "evidence_text": "",
+        "evidence_section": "",
+        "extraction_model": "",
+        "review_model": "",
+        "review_status": "",
+        "ingested_at": "",
+        "source_pdf": ""
+      }
+    ]
+  },
+  {
+    "pdf_file": "Adv Funct Materials - 2021 - Kuhn - Engineering Silver⌐\\Enriched Copper Core⌐\\Shell Electrocatalysts to Enhance the.pdf",
+    "doi": "10.1002/adfm.202101668",
+    "title": "Engineering Silver-Enriched Copper Core-Shell Electrocatalysts to Enhance the Production of Ethylene and C2+ Chemicals from Carbon Dioxide at Low Cell Potentials",
+    "sample_only": true,
+    "full_text_chars": 3600,
+    "sections": {
+      "abstract": "www.afm-journal.de\n© 2021 Wiley-VCH GmbH\n2101668  (1 of 10)\nResearch Article\nEngineering Silver-Enriched Copper Core-Shell \nElectrocatalysts to Enhance the Production of Ethylene and \nC2+ Chemicals from Carbon Dioxide at Low Cell Potentials\nAndrew N. Kuhn, Haidong Zhao, Uzoma O. Nwabara, Xiaofei Lu, Mingyan Liu, \nYung-Tin Pan, Wenjin Zhu, Paul J. A. Kenis,* and Hong Yang*\nCopper catalysts are widely studied for the electroreduction of carbon dioxide \n(CO2) to value-added hydrocarbon products. Controlling the surface com-\nposition of copper nanomaterials may provide the electronic and structural \nproperties necessary for carbon-carbon coupling, thus increasing the Fara-\ndaic efficiency (FE) towards ethylene and other multi-carbon (C2+) products. \nSynthesis and catalytic study of silver-coated copper nanoparticles (Cu@Ag \nNPs) for the reduction of CO2 are presented. Bimetallic CuAg NPs are typically \ndifficult to produce due to the bulk immiscibility between these two metals. \nSlow injection of the silver precursor, concentrations of organic capping agents, \nand gas environment proved critical to control the size and metal distribution \nof the Cu@Ag NPs. The optimized Cu@Ag electroca",
+      "experimental": "",
+      "results": "2.1. Formation of Cu@Ag Nanoparticles\nThe synthesis used in these experiments was modified from \nmultiple sources.[64,73,74,77,78] Figure 1a highlights the key synthesis \nFigure 1.  a) Scheme for the synthesis of Cu@Ag core-shell nanoparticle electrocatalysts and b) the illustration of the formation of Cu@Ag NPs.\nAdv. Funct. Mater. 2021, 31, 2101668\n 16163028, 2021, 26, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202101668 by Dalian Institute Of Chemical, Wiley Online Library on [04/03/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License\n\nwww.afm-journal.de\nwww.advancedsciencenews.com\n2101668  (3 of 10)\n© 2021 Wiley-VCH GmbH\nsteps and features, including the gas environment, solvent and \ncapping agents, and temperature profile throughout the pro-\ncess. The starting Cu solution contained Cu(acac)2, oleylamine \n(OAm), and diphenyl ether (DPE). A Schlenk line was used to \nevacuate the flask and to introduce CO gas. The temperature was \nslowly ramped to 220 °C (1.6 °C min−1) and held for 2 h. The \nvessel was th",
+      "conclusion": "The size and structure of Ag-enriched Cu@Ag nanoparticles \nwere kinetically controlled using a sequential synthesis of care-\nfully screened reactants, solvents, and reaction conditions. \nStringent control over the addition of silver precursors under \nthe heated carbon monoxide gas environment is important to \nobtain an Ag-enriched shell at a single or sub-mono- atomic \nlayer accuracy. Using these well-controlled Cu@Ag catalysts, \nthe electroreduction of CO2 to ethylene was switched on at a low \ncell potential of −2.25 V and achieved a FE towards C2+ prod-\nucts of 43% at −2.50 V, of that >80% was C2H4. These results \nprovide a new CO2 reduction electrocatalyst based on fine struc-\ntural control of two immiscible metals and the insights towards \nenhancing CC coupling for the electroreduction of carbon \ndioxide through engineering the surface of bimetallic nanopar-\nticle catalysts.\n4. Experimental Section\nMaterials: Butylamine (99%), dimethyl sulfoxide (DMSO, ≥99.9%), \nDPE (99%), OAm (70%), oleic acid (OAc, 90%), tetrahydrofuran \n(THF, ≥99.0%), copper acetylacetonate (Cu[acac]2, 99.99%), silver \ntrifluoroacetate (AgOCOCF3, 98%), reference silver electrocatalyst \n(AgRef., <100  nm, 99"
+    },
+    "summary": "www.afm-journal.de\n© 2021 Wiley-VCH GmbH\n2101668  (1 of 10)\nResearch Article\nEngineering Silver-Enriched Copper Core-Shell \nElectrocatalysts to Enhance the Production of Ethylene and \nC2+ Chemicals from Carbon Dioxide at Low Cell Potentials\nAndrew N. Kuhn, Haidong Zhao, Uzoma O. Nwabara, Xiaofei Lu, Mingyan Liu, \nYung-Tin Pan, Wenjin Zhu, Paul J. A. Kenis,* and Hong Yang*\nCopper catalysts are widely studied for the electroreduction of carbon dioxide \n(CO2) to value-added hydrocarbon products. Controlling the surface com-\nposition of copper nanomaterials may provide the electronic and structural \nproperties necessary for carbon-carbon coupling, thus increasing the Fara-\ndaic efficiency (FE) towards ethylene and other multi-carbon (C2+) products. \nSynthesis and catalytic study of silver-coat",
+    "records": [
+      {
+        "doi": "10.1002/adfm.202101668",
+        "title": "Engineering Silver-Enriched Copper Core-Shell Electrocatalysts to Enhance the Production of Ethylene and C2+ Chemicals from Carbon Dioxide at Low Cell Potentials",
+        "year": "2021.0",
+        "catalyst_name": "Silver-Enriched Copper",
+        "catalyst_type": "Cu-M",
+        "product_raw": "C2H4",
+        "product": "C2H4",
+        "fe_pct": "34.0",
+        "voltage_V": "-2.5",
+        "electrolyte": "KOH",
+        "cell_setup": "flow cell",
+        "current_density_mA_cm2": "",
+        "synthesis_method": "other; solvothermal",
+        "product_rank": "",
+        "is_representative": "",
+        "voltage_reference": "",
+        "evidence_text": "",
+        "evidence_section": "",
+        "extraction_model": "",
+        "review_model": "",
+        "review_status": "",
+        "ingested_at": "",
+        "source_pdf": ""
+      }
+    ]
+  },
+  {
+    "pdf_file": "Adv Funct Materials - 2020 - Ma - Enhanced Electrochemical CO2 Reduction of Cu CuxO Nanoparticles Decorated on 3D Vertical.pdf",
+    "doi": "10.1002/adfm.201910118",
+    "title": "Enhanced Electrochemical CO2 Reduction of Cu@CuxO Nanoparticles Decorated on 3D Vertical Graphene with Intrinsic sp(3)-type Defect",
+    "sample_only": true,
+    "full_text_chars": 3600,
+    "sections": {
+      "abstract": "www.afm-journal.de\n© 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim\n1910118  (1 of 12)\nFull Paper\nEnhanced Electrochemical CO2 Reduction of Cu@CuxO \nNanoparticles Decorated on 3D Vertical Graphene with \nIntrinsic sp3-type Defect\nZhipeng Ma, Constantine Tsounis, Priyank V. Kumar, Zhaojun Han, Roong Jien Wong, \nCui Ying Toe, Shujie Zhou, Nicholas M. Bedford, Lars Thomsen, Yun Hau Ng, \nand Rose Amal*\nDefective 3D vertical graphene (VG) with a relatively large surface area, high \ndefect density, and increased surface electrons is synthesized via a scalable \nplasma enhanced chemical vapor deposition method, together with a postsyn-\nthesis Ar-plasma treatment (VG-Ar). Subsequently, Cu@CuxO nanoparticles are \ndeposited onto VG-Ar (Cu/VG-Ar) through a galvanostatic pulsed electrodeposi-\ntion method. These Cu@CuxO nanocatalyst systems exhibit a superior elec-\ntrochemical CO2 reduction performance when compared to Cu-based catalysts \nsupported on commercial graphene paper or pristine VG without postsynthesis \nAr-plasma treatment. The Cu/VG-Ar achieves the highest CO2 reduction Faradaic \nefficiency of 60.6% (83.5% of which are attributed to liquid products, i.e., formate, \nethanol, and n-pro",
+      "experimental": "",
+      "results": "The graphene materials before and after Cu electrodeposition \nwere first characterized using SEM. As illustrated in Figure S1 \n(Supporting Information), the GP shows a typical 2D layered \nstructure, while the VG and VG-Ar materials exhibit vertically-\norientated 3D carbon structures. After the decoration of Cu \nnanoparticles via PED, the 2D graphene surface was covered \nby a dense layer of aggregated Cu species. In contrast, the Cu \nspecies deposited on VG materials were well-dispersed with the \nsize ranging from 60 to 80 nm. The SEM images of VG and \nVG-Ar also demonstrate that the postsynthesis Ar-plasma treat-\nment was mild and did not damage the 3D porous structure \nof VG, which results in the same Cu nanoparticle morphology. \nThis is further confirmed by the TEM images (Figure S2, Sup-\nporting Information), demonstrating no obvious changes in the \nmorphology and size of the Cu nanoparticles dispersed on the \nthin-layer graphene of VG or VG-Ar.\nScheme 1.  Schematic illustration for the preparation of Cu/VG-Ar. Surface treatment (ST) using Ar-plasma (RF induced, 13.56 MHz, 1000 W) was used \nto clean the surface. Plasma enhanced chemical vapor deposition (PECVD) was used to grow ",
+      "conclusion": "Through a scalable plasma enhanced chemical vapor deposition \nmethod, Cu nanoparticles deposited on 3D defective vertical \ngraphene electrocatalyts have been successfully synthesized \nFigure 6.  Electrochemical properties of VG and VG-Ar in CO2-saturated 0.1 m KHCO3. LSV curves A) of VG and VG-Ar at a scan rate of 5 mV s−1; no \nCO2 reduction product was detected using these materials. Nyquist plots B) of VG and VG-Ar, with the equivalent circuit model (inset) simulated \nusing the ZView software.\nAdv. Funct. Mater. 2020, 30, 1910118\n 16163028, 2020, 24, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.201910118 by Dalian Institute Of Chemical, Wiley Online Library on [04/03/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License\n\nwww.afm-journal.de\nwww.advancedsciencenews.com\n1910118  (10 of 12)\n© 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim\nfor the electrochemical CO2 reduction reaction. As compared \nto traditional 2D graphene supported catalysts, the unique 3D \nstructures of VG provided the Cu species with more"
+    },
+    "summary": "www.afm-journal.de\n© 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim\n1910118  (1 of 12)\nFull Paper\nEnhanced Electrochemical CO2 Reduction of Cu@CuxO \nNanoparticles Decorated on 3D Vertical Graphene with \nIntrinsic sp3-type Defect\nZhipeng Ma, Constantine Tsounis, Priyank V. Kumar, Zhaojun Han, Roong Jien Wong, \nCui Ying Toe, Shujie Zhou, Nicholas M. Bedford, Lars Thomsen, Yun Hau Ng, \nand Rose Amal*\nDefective 3D vertical graphene (VG) with a relatively large surface area, high \ndefect density, and increased surface electrons is synthesized via a scalable \nplasma enhanced chemical vapor deposition method, together with a postsyn-\nthesis Ar-plasma treatment (VG-Ar). Subsequently, Cu@CuxO nanoparticles are \ndeposited onto VG-Ar (Cu/VG-Ar) through a galvanostatic pulsed electrodeposi-\ntion meth",
+    "records": [
+      {
+        "doi": "10.1002/adfm.201910118",
+        "title": "Enhanced Electrochemical CO2 Reduction of Cu@CuxO Nanoparticles Decorated on 3D Vertical Graphene with Intrinsic sp(3)-type Defect",
+        "year": "2020.0",
+        "catalyst_name": "Cu@CuxO Nanoparticles Decorated on 3D Vertical Graphene",
+        "catalyst_type": "Cu/C",
+        "product_raw": "HCOOH",
+        "product": "HCOOH",
+        "fe_pct": "40.0",
+        "voltage_V": "-1.2",
+        "electrolyte": "KHCO3",
+        "cell_setup": "h-type cell",
+        "current_density_mA_cm2": "",
+        "synthesis_method": "atomic layer deposition; electrodeposition",
+        "product_rank": "",
+        "is_representative": "",
+        "voltage_reference": "",
+        "evidence_text": "",
+        "evidence_section": "",
+        "extraction_model": "",
+        "review_model": "",
+        "review_status": "",
+        "ingested_at": "",
+        "source_pdf": ""
+      }
+    ]
+  },
+  {
+    "pdf_file": "Chinese Journal of Chemistry - 2019 - Jia - Copper⌐\\Bismuth Bimetallic Microspheres for Selective Electrocatalytic Reduction.pdf",
+    "doi": "10.1002/cjoc.201900010",
+    "title": "Copper-Bismuth Bimetallic Microspheres for Selective Electrocatalytic Reduction of CO2 to Formate",
+    "sample_only": true,
+    "full_text_chars": 3303,
+    "sections": {
+      "abstract": "electrochemical CO2 reduction, formate, hierarchical CuBi2O4 microspheres, \nbimetallic catalyst, selectivity \n \n \n \n \nChin. J. Chem. 2019, 37, 497－500 \n©  2019 SIOC, CAS, Shanghai, & WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim \n \n497 \n中国化学\nCopper-Bismuth Bimetallic Microspheres for Selective Electrocatalytic \nReduction of CO2 to Formate \nLin Jia, Hui Yang, Jun Deng, Junmei Chen, Yuan Zhou, Pan Ding, Leigang Li, Na Han,* and Yanguang Li* \nInstitute of Functional Nano & Soft Materials (FUNSOM), Jiangsu Key Laboratory for Carbon-Based Functional Materials and Devices, Soochow University, \nSuzhou, Jiangsu 215123, China \nCite this paper: Chin. J. Chem. 2019, 37, 497—500. DOI: 10.1002/cjoc.201900010 \nSummary of main observation and conclusion  Electrocatalytic carbon dioxide reduction holds great promise for reducing the atmospheric CO2 level\nand alleviating the energy crisis. High-performance electrocatalysts are often required in order to lower the high overpotential and expedite the sluggish \nreaction kinetics of CO2 el",
+      "experimental": "",
+      "results": "Material synthesis and structural characterization \nCuBi2O4 microspheres were prepared via the hydrothermal \nreaction using the precursors of Cu(NO3)2 and Bi(NO3)3 (see Ex-\nperimental for more details). Since the hydrothermal temperature \nand time had significant influences on the product morphology \nand composition, these two experimental parameters were first \ncarefully explored. It was found that 100 oC and 36 h gave rise to \nthe most uniform CuBi2O4 microspheres as shown in Figure 1a. \nPolyethylene glycol 400 (PEG 400) was added during the hydro-\nthermal reaction and found to play an important role in facilitat-\ning the formation of the microstructure. \nTo characterize the microstructure of CuBi2O4 microspheres, \nscanning electron microscope (SEM) imaging was performed. \nFigure 1a showed uniform CuBi2O4 microspheres prepared under \nthe optimal conditions. These microspheres had an average di-\nameter of about 4 μm. Their surface was not smooth. \nHigh-magnification SEM image in Figure 1b showed that the rough \nsurface of the CuBi2O4 microspheres consisted of a large number \nof nanoparticles. To get more crystalline information and confirm \n\n \n \n498 \nwww.cjc.wiley-vch.de \n©  2019 ",
+      "conclusion": "In summary, we reported the electrocatalytic CO2 reduction \ncatalyzed by bimetallic Cu-Bi with high activity and selectivity. The \nbimetallic Cu-Bi electrocatalyst was in situ prepared by reducing \nthe CuBi2O4 microspheres, which were synthesized by the facile \nhydrothermal method. The in situ formed bimetallic Cu-Bi elec-\ntrocatalyst showed excellent electrocatalytic performance toward \nreducing CO2 to formate in 0.5 mol·L–1 NaHCO3 electrolyte. High \nFaradaic efficiency over 90% for formate was maintained in a wide \npotential range with a maximum Faradaic efficiency of ~95% at  \n–0.93 V and a large HCOO– partial current density of 8.2 mA·cm–2 \nat –1.03 V. Moreover, the bimetallic Cu-Bi catalyst was very stable \nand maintained high Faradaic efficiencies of ~95% for over 6 h. \nThe superior electrochemical performance of the bimetallic Cu-Bi \nelectrocatalyst rendered it an attractive candidate for CO2 elec-\ntroreduction. \nSupporting Information \nThe supporting information for this article is available on the \nWWW under https://doi.org/10.1002/cjoc.201900010."
+    },
+    "summary": "electrochemical CO2 reduction, formate, hierarchical CuBi2O4 microspheres, \nbimetallic catalyst, selectivity \n \n \n \n \nChin. J. Chem. 2019, 37, 497－500 \n©  2019 SIOC, CAS, Shanghai, & WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim \n \n497 \n中国化学\nCopper-Bismuth Bimetallic Microspheres for Selective Electrocatalytic \nReduction of CO2 to Formate \nLin Jia, Hui Yang, Jun Deng, Junmei Chen, Yuan Zhou, Pan Ding, Leigang Li, Na Han,* and Yanguang Li* \nInstitute of Functional Nano & Soft Materials (FUNSOM), Jiangsu Key Laboratory for Carbon-Based Functional Materials and Devices, Soochow University, \nSuzhou, Jiangsu 215123, China \nCite thi",
+    "records": [
+      {
+        "doi": "10.1002/cjoc.201900010",
+        "title": "Copper-Bismuth Bimetallic Microspheres for Selective Electrocatalytic Reduction of CO2 to Formate",
+        "year": "2019.0",
+        "catalyst_name": "Copper-Bismuth Bimetallic Microspheres",
+        "catalyst_type": "Cu-M",
+        "product_raw": "HCOOH",
+        "product": "HCOOH",
+        "fe_pct": "95.0",
+        "voltage_V": "-0.93",
+        "electrolyte": "NaHCO3",
+        "cell_setup": "h-type cell",
+        "current_density_mA_cm2": "",
+        "synthesis_method": "hydrothermal; solvothermal",
+        "product_rank": "",
+        "is_representative": "",
+        "voltage_reference": "",
+        "evidence_text": "",
+        "evidence_section": "",
+        "extraction_model": "",
+        "review_model": "",
+        "review_status": "",
+        "ingested_at": "",
+        "source_pdf": ""
+      }
+    ]
+  },
+  {
+    "pdf_file": "Adv Funct Materials - 2021 - Kim - Cu Cu2O Interconnected Porous Aerogel Catalyst for Highly Productive Electrosynthesis of.pdf",
+    "doi": "10.1002/adfm.202102142",
+    "title": "Cu/Cu2O Interconnected Porous Aerogel Catalyst for Highly Productive Electrosynthesis of Ethanol from CO2",
+    "sample_only": true,
+    "full_text_chars": 3600,
+    "sections": {
+      "abstract": "www.afm-journal.de\n© 2021 Wiley-VCH GmbH\n2102142  (1 of 9)\nResearch Article\nCu/Cu2O Interconnected Porous Aerogel Catalyst for \nHighly Productive Electrosynthesis of Ethanol from CO2\nChansol Kim, Kyeong Min Cho,* Kangho Park, Ju Ye Kim, Geun-Tae Yun, \nFrancesca M. Toma, Issam Gereige, and Hee-Tae Jung*\nUse of Cu and Cu+ is one of the most promising approaches for the produc-\ntion of C2 products by the electrocatalytic CO2 reduction reaction (CO2RR) \nbecause it can facilitate CO2 activation and CC dimerization. However, the \nselective electrosynthesis of C2+ products on Cu0Cu+ interfaces is critically \nlimited due to the low electrocatalytic production of ethanol relative to eth-\nylene. In this study, a novel porous Cu/Cu2O aerogel network is introduced to \nafford high ethanol productivity by the electrocatalytic CO2RR. The aerogel is \nsynthesized by a simple chemical redox reaction of a precursor and a reducing \nagent. CO2RR results reveal that the Cu/Cu2O aerogel produces ethanol as the \nmajor product, exhibiting a Faradaic efficiency (FEEtOH) of 41.2% and a partial \ncurrent density (JEtOH) of 32.55 mA cm−2 in an H-cell reactor. This is the best \nelectrosynthesis performance for",
+      "experimental": "",
+      "results": "Figure 1a shows the overall scheme for the fabrication of porous \nCu/Cu2O aerogel networks for the high production of C2 \nproducts by electrocatalytic CO2RR. The Cu/Cu2O aerogel was \nprepared by a simple wet chemical redox reaction in an aqueous \nsolution at room temperature.[18] An aqueous CuCl2 precursor \nsolution was mixed by vigorous stirring under Ar atmosphere, \nfollowed by the addition of NaOH. As the reducing agent, \nNaBH4 in various amounts was injected into the precursor \nsolution which had a transparent light blue color to control \nthe average oxidation state of the porous aerogel. In this study, \nFigure 1.  Synthesis and structure of the Cu/Cu2O aerogel. a) Schematic of the structure and synthesis of the Cu/Cu2O aerogel. b) Surface Cu+ \nratio determined by XPS spectra Auger Cu LMM peaks. c) Cu K-edge XAS spectra of the aerogel and film catalysts. d) SEM image and e) HRTEM \nimages of the Cu/Cu2O aerogel. f) ECSA determined from the electrical double-layer capacitance, which was obtained by changing the scan rate \nfor catalysts.\nAdv. Funct. Mater. 2021, 31, 2102142\n 16163028, 2021, 32, Downloaded from https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202102142 by ",
+      "conclusion": "In summary, a Cu/Cu2O aerogel catalyst was developed for the \nelectrosynthesis of ethanol from CO2. The Cu/Cu2O aerogel \nexhibited high productivity (JEtOH = 32.55 mA cm−2) and selec-\ntivity to C2 products (FEEtOH ≈ 41.2%, FEC2H4 ≈ 39.6%) at −1.1 V \nRHE. The dense distribution of the Cu0Cu+ interfaces on the \nporous aerogel and the high surface area played a crucial role \nin enhancing the electrocatalytic CO2RR performance. Further-\nmore, the possibility of applying the material in a GDE flow cell \nwas explored, and a high JEtOH for the Cu/Cu2O aerogel was \nobtained (72.1 mA cm−2). This aerogel electrocatalyst is thought \nto be an appealing model for the commercial electrosynthesis \nof ethanol from CO2.\n4. Experimental Section\nSynthesis of the Cu/Cu2O and Cu2O Aerogels: First, 150 mL of distilled \n(DI) water was purged by nitrogen in sealed round flask for 30 min. \nSecond, 15 mL of CuCl2 (0.1 m) and 15 mL of NaOH (0.2 m) were \nadded under vigorous stirring with maintaining purging. After 30 min \nof stabilization, 150 µL of ethanol and a controlled amount of NaBH4 in \n25 mL of DI water were rapidly added into this solution. The mass of the \nadded NaBH4 was 12.5, 25, 37.5, 50, 62.5,"
+    },
+    "summary": "www.afm-journal.de\n© 2021 Wiley-VCH GmbH\n2102142  (1 of 9)\nResearch Article\nCu/Cu2O Interconnected Porous Aerogel Catalyst for \nHighly Productive Electrosynthesis of Ethanol from CO2\nChansol Kim, Kyeong Min Cho,* Kangho Park, Ju Ye Kim, Geun-Tae Yun, \nFrancesca M. Toma, Issam Gereige, and Hee-Tae Jung*\nUse of Cu and Cu+ is one of the most promising approaches for the produc-\ntion of C2 products by the electrocatalytic CO2 reduction reaction (CO2RR) \nbecause it can facilitate CO2 activation and CC dimerization. However, the \nselective electrosynthesis of C2+ products on Cu0Cu+ interfaces is critically \nlimited due to the low electrocatalytic production of ethanol relative to eth-\nylene. In this study, a novel porous Cu/Cu2O aerogel network is introduced to \nafford high ethanol productivit",
+    "records": [
+      {
+        "doi": "10.1002/adfm.202102142",
+        "title": "Cu/Cu2O Interconnected Porous Aerogel Catalyst for Highly Productive Electrosynthesis of Ethanol from CO2",
+        "year": "2021.0",
+        "catalyst_name": "Cu/Cu2O Interconnected Porous Aerogel Catalyst",
+        "catalyst_type": "CuOx",
+        "product_raw": "CH4",
+        "product": "CH4",
+        "fe_pct": "5.0",
+        "voltage_V": "1.1",
+        "electrolyte": "KCl",
+        "cell_setup": "h-type cell",
+        "current_density_mA_cm2": "",
+        "synthesis_method": "chemical reduction; wet chemical synthesis",
+        "product_rank": "",
+        "is_representative": "",
+        "voltage_reference": "",
+        "evidence_text": "",
+        "evidence_section": "",
+        "extraction_model": "",
+        "review_model": "",
+        "review_status": "",
+        "ingested_at": "",
+        "source_pdf": ""
+      }
+    ]
+  },
+  {
+    "pdf_file": "Advanced Energy Materials - 2021 - Fan - Manipulating Cu Nanoparticle Surface Oxidation States Tunes Catalytic Selectivity.pdf",
+    "doi": "10.1002/aenm.202101424",
+    "title": "Manipulating Cu Nanoparticle Surface Oxidation States Tunes Catalytic Selectivity toward CH4 or C2+ Products in CO2 Electroreduction",
+    "sample_only": true,
+    "full_text_chars": 2400,
+    "sections": {
+      "abstract": "www.advenergymat.de\n2101424  (1 of 10)\n© 2021 Wiley-VCH GmbH\nResearch Article\nManipulating Cu Nanoparticle Surface Oxidation States \nTunes Catalytic Selectivity toward CH4 or C2+ Products in \nCO2 Electroreduction\nQikui Fan, Xue Zhang, Xiaohu Ge, Licheng Bai, Dongsheng He, Yunteng Qu, \nChuncai Kong, Jinglei Bi, Dawei Ding, Yueqiang Cao, Xuezhi Duan,* Jin Wang,* \nJian Yang,* and Yuen Wu\nDOI: 10.1002/aenm.202101424\n1. Introduction\nThe carbon dioxide electro reduction \nreaction (CO2RR) is an effective strategy \nto produce fuels and chemical feedstocks \nusing intermittent renewable electricity \n(solar and wind). Conducted under mild \nconditions, the research community is \nhopeful that as well as being effective, it \nwill prove to be achievable as a sustain-\nable chemistry, carbon-neutral strategy.[1] \nBecause of the complexity and range of \ncoupling processes between multiple \nprotons and electrons, a multitude of \npossible CO2 reduction products (C1–C4 \nand hydrogen [H2]) can be generated \nusing various types of electrocatalysts.[2] \nTo date, although carbon monoxide \n(CO),[3] formate (HCOOH),[4] C2H4,[5] and \nC2H5OH[6] are common and relatively \nwell-established \nproducts, \nsubstantia",
+      "experimental": "",
+      "results": "",
+      "conclusion": "In conclusion, a facile seed-assisted strategy for preparing \nPVP-capped Cu NPs was developed. Through controllable \nregulation of the oxidization state of surface Cu atoms, a dis-\ntinct difference in CO2RR performance was demonstrated for \ndifferent amounts of PVP capping, with the NPs coated with a \nsufficient amount of PVP (SPVP-Cu NPs) catalyzing the pro-\nduction of CH4 and those that were considered PVP-deficient \n(DPVP-Cu NPs) catalyzing C2+ production. In this system, the \nPVP polymer plays a very critical role in manipulating the \nchemical state of the surface Cu atoms. Our study provides \na new reference for the construction of Cu NPs with well-\ndefined different oxidization states on gas diffusion electrodes \nsuitable for commercial CO2RR systems to generate CH4 and \nC2+ products.\n4. Experimental Section\nMaterials and Chemicals: L-ascorbic acid, PVP (Mw 40  000) and \ntrisodium citrate dihydrate were purchased from Vetec. Cupric \nacetate anhydrous (Cu (CH3COO)2, 98%) and PVA were purchased \nfrom Innochem. KOH (95%), deuterium oxide (D2O), Nafion binder \n(5  wt%, D-521), dimethyl sulfoxide (DMSO), and sodium borohydride \n(NaBH4) were purchased from Alfa Aesar. Gold (III) ch"
+    },
+    "summary": "www.advenergymat.de\n2101424  (1 of 10)\n© 2021 Wiley-VCH GmbH\nResearch Article\nManipulating Cu Nanoparticle Surface Oxidation States \nTunes Catalytic Selectivity toward CH4 or C2+ Products in \nCO2 Electroreduction\nQikui Fan, Xue Zhang, Xiaohu Ge, Licheng Bai, Dongsheng He, Yunteng Qu, \nChuncai Kong, Jinglei Bi, Dawei Ding, Yueqiang Cao, Xuezhi Duan,* Jin Wang,* \nJian Yang,* and Yuen Wu\nDOI: 10.1002/aenm.202101424\n1. Introduction\nThe carbon dioxide electro reduction \nreaction (CO2RR) is an effective strategy \nto produce fuels and chemical feedstocks \nusing intermittent renewable electricity \n(solar and wind). Conducted under mild \nconditions, the research community is \nhopeful that as well as being effective, it \nwill prove to be achievable as a sustain-\nable chemistry, carbon-neutral strate",
+    "records": [
+      {
+        "doi": "10.1002/aenm.202101424",
+        "title": "Manipulating Cu Nanoparticle Surface Oxidation States Tunes Catalytic Selectivity toward CH4 or C2+ Products in CO2 Electroreduction",
+        "year": "2021.0",
+        "catalyst_name": "Cu Nanoparticle",
+        "catalyst_type": "Cu",
+        "product_raw": "CH4",
+        "product": "CH4",
+        "fe_pct": "70.0",
+        "voltage_V": "",
+        "electrolyte": "unknown",
+        "cell_setup": "",
+        "current_density_mA_cm2": "",
+        "synthesis_method": "",
+        "product_rank": "",
+        "is_representative": "",
+        "voltage_reference": "",
+        "evidence_text": "",
+        "evidence_section": "",
+        "extraction_model": "",
+        "review_model": "",
+        "review_status": "",
+        "ingested_at": "",
+        "source_pdf": ""
+      }
+    ]
+  },
+  {
+    "pdf_file": "Advanced Materials - 2021 - Kim - Synergistic Effect of Cu2O Mesh Pattern on High⌐\\Facet Cu Surface for Selective CO2.pdf",
+    "doi": "10.1002/adma.202106028",
+    "title": "Synergistic Effect of Cu2O Mesh Pattern on High-Facet Cu Surface for Selective CO2 Electroreduction to Ethanol",
+    "sample_only": true,
+    "full_text_chars": 3549,
+    "sections": {
+      "abstract": "2106028  (1 of 10)\n© 2021 Wiley-VCH GmbH\nwww.advmat.de\nResearch Article\nSynergistic Effect of Cu2O Mesh Pattern on High-Facet Cu \nSurface for Selective CO2 Electroreduction to Ethanol\nJu Ye Kim, Gukbo Kim, Hyeonsik Won, Issam Gereige, Woo-Bin Jung,* and Hee-Tae Jung*\nJ. Y. Kim, G. Kim, H. Won, W.-B. Jung, H.-T. Jung\nDepartment of Chemical and Biomolecular Engineering (BK-21 four)\nKorea Advanced Institute of Science and Technology (KAIST)\n291 Daehak-ro, Yuseong-gu, Daejeon 34141, South Korea\nJ. Y. Kim\nChemical and Process Technology Division\nKorea Research Institute of Chemical Technology (KRICT)\n141 Gajeong-ro, Yuseong-gu, Daejeon 34114, South Korea\nI. Gereige\nSaudi Aramco\nResearch and Development Center\nDhahran 31311, Saudi Arabia\nW.-B. Jung\nSchool of Engineering and Applied Sciences\nHarvard University\nCambridge, MA 02138, USA\nThe ORCID identification number(s) for the author(s) of this article \ncan be found under https://doi.org/10.1002/adma.202106028.\nDOI: 10.1002/adma.202106028\nAmong various chemical products that can \nbe converted from CO2, ethanol (C2H5OH) \nis particularly interesting because of its \nusefulness as energy and ",
+      "experimental": "",
+      "results": "The overall synthetic procedure for the catalyst with a high-\nfacet of wrinkled Cu surrounded by a Cu2O mesh pattern (Cu+/\nhf-Cu) is represented in Figure 1. As an electrocatalyst for CO2 \nconversion, copper (Cu) has the unique ability to convert CO2 \ninto C1–C3 hydrocarbons and oxygenates because of its appro-\npriate CO binding energy and thus its stable CO–CO coupling \nreaction.[14,18] Cu is also well known to be a graphene growth \nsubstrate on which the graphene can be grown via the CVD \nmethod.[30–31] During the CVD graphene growth process, the \nflat Cu surface can be transformed into a sharply wrinkled \nstructure having a high-facet atomic arrangement, which cre-\nates a favorable site for ethanol formation.[18] We denote the \nwrinkle structure with high-facets as hf-Cu. In addition to hf-Cu \nformation, the uniformly grown graphene (i.e., the defect-free \ngraphene grain boundary) can serve as a passivation layer for \nhf-Cu by protecting the penetration of oxygen molecules even \nunder the intended oxidation environment, at 200  °C under \nhumidity condition (Figures S1 and S2, Supporting Informa-\ntion). In other words, this indicates that the gGB defects play \na role in the oxyge",
+      "conclusion": "We have developed a Cu+/hf-Cu catalyst using a gGB as an \noxidation masking material and investigated its performance \nfor CO2 electroconversion. The Cu+/hf-Cu was composed of \na high-facet atomic arrangement with a wrinkled surface and \nwas combined with Cu+  sites having the same dimension as \nthe graphene grain boundaries. The catalyst exhibited sev-\neral unique features that distinguished it from previous Cu \ncatalysts: 1) our electrocatalyst contained high facets, Cu+, and \nCu0/Cu+ interfaces, which are difficult to combine via existing \nmethods. The introduced Cu+ sites promoted CO stabilization \ndue to its strong CO bindings, while the high-facets of Cu0 pro-\nvided favorable C–C coupling sites, especially for the ethanol \npathway. On the nanoscale, the Cu0/Cu+ interface provided \nstable CO2 activation and dimerization sites. 2) The fabrica-\ntion method is a simple and easy-to-scale process since it can \nbe performed via a conventional CVD graphene growth proce-\ndure. Through the insufficient growth of graphene, a wrinkled \nsurface with high facets and a masking material were simul-\ntaneously synthesized. 3) We observed high ethanol selectivity, \nwhich resulted in an FE of 43"
+    },
+    "summary": "2106028  (1 of 10)\n© 2021 Wiley-VCH GmbH\nwww.advmat.de\nResearch Article\nSynergistic Effect of Cu2O Mesh Pattern on High-Facet Cu \nSurface for Selective CO2 Electroreduction to Ethanol\nJu Ye Kim, Gukbo Kim, Hyeonsik Won, Issam Gereige, Woo-Bin Jung,* and Hee-Tae Jung*\nJ. Y. Kim, G. Kim, H. Won, W.-B. Jung, H.-T. Jung\nDepartment of Chemical and Biomolecular Engineering (BK-21 four)\nKorea Advanced Institute of Science and Technology (KAIST)\n291 Daehak-ro, Yuseong-gu, Daejeon 34141, South Korea\nJ. Y. Kim\nChemical and Process Technology Division\nKorea Research Institute of Chemical Technology (KRICT)\n141 Gajeong-ro, Yuseong-gu, Daejeon 34114, South Korea\nI. Gereige\nSaudi Aramco\nResearch and Development Center\nDhahran 31311, Saudi Arabia\nW.-B. J",
+    "records": [
+      {
+        "doi": "10.1002/adma.202106028",
+        "title": "Synergistic Effect of Cu2O Mesh Pattern on High-Facet Cu Surface for Selective CO2 Electroreduction to Ethanol",
+        "year": "2021.0",
+        "catalyst_name": "Cu2O Mesh Pattern on High-Facet Cu Surface",
+        "catalyst_type": "CuOx",
+        "product_raw": "C2H5OH",
+        "product": "C2H5OH",
+        "fe_pct": "43.0",
+        "voltage_V": "",
+        "electrolyte": "unknown",
+        "cell_setup": "",
+        "current_density_mA_cm2": "",
+        "synthesis_method": "",
+        "product_rank": "",
+        "is_representative": "",
+        "voltage_reference": "",
+        "evidence_text": "",
+        "evidence_section": "",
+        "extraction_model": "",
+        "review_model": "",
+        "review_status": "",
+        "ingested_at": "",
+        "source_pdf": ""
+      }
+    ]
+  },
+  {
+    "pdf_file": "Advanced Energy Materials - 2020 - Lv - Electron⌐\\Deficient Cu Sites on Cu3Ag1 Catalyst Promoting CO2 Electroreduction to.pdf",
+    "doi": "10.1002/aenm.202001987",
+    "title": "Electron-Deficient Cu Sites on Cu(3)Ag(1)Catalyst Promoting CO(2)Electroreduction to Alcohols",
+    "sample_only": true,
+    "full_text_chars": 3600,
+    "sections": {
+      "abstract": "www.advenergymat.de\n2001987  (1 of 8)\n© 2020 Wiley-VCH GmbH\nFull Paper\nElectron-Deficient Cu Sites on Cu3Ag1 Catalyst Promoting \nCO2 Electroreduction to Alcohols\nXimeng Lv, Longmei Shang, Si Zhou,* Si Li, Yuhang Wang, Zhiqiang Wang, \nTsun-Kong Sham, Chen Peng, and Gengfeng Zheng*\nDOI: 10.1002/aenm.202001987\ncarbon sources through different tech-\nnical routes,[1] which either have negative \nenvironmental impacts or deliver a poor \natomic economy while being energy inten-\nsive.[2] For instance, the life-cycle green-\nhouse gas emission for producing a liter \nof bioethanol is ≈1.6 kg CO2 equivalent.[3] \nFor fuel ethanol with a global production \nof ≈104 billion liters per year,[4] the annual \nCO2 emission is more than 170 million \nmetric tons, corresponding to 0.5% of the \nglobal annual overall carbon emission.[5] \nNew technologies are thus in demand to \nbalance the target of environmental pro-\ntection and economic development.\nElectrochemical CO2 reduction (ECR) \ndriven by renewable energies is a com-\npetitive candidate, as it converts CO2 into \nliquid products like formate and alcohols \nwith nearly net-zero CO2 emissions.[6] \nNonetheless, the Faradaic efficiency (FE) \nfor CO2-to-alco",
+      "experimental": "",
+      "results": "2.1. Structural Characterizations\nX-ray diffraction (XRD) of Cu3Ag1 and the Cu matrix (“Methods” \nin the Supporting Information) was first conducted to inves-\ntigate the structural changes caused by introducing Ag, from \nwhich both samples displayed high crystallinities (Figure  2a). \nThe intensity ratios between the Cu (200) and Cu (111) peaks \nwere 16.9, 2.87, and 2.69 for the Cu foil, Cu matrix, and Cu3Ag1, \nrespectively, indicating that the electrodeposited Cu particles \nwere (200)-oriented, although the orientation was relatively \nweaker than the original substrates (i.e., Cu foil), which was \nascribed to the lower surface energy of Cu (111) plane in elec-\ntrodeposition.[16] The average crystallite sizes were calculated \nas ≈36 and 65 nm for Cu matrix and Cu3Ag1 catalyst, respec-\ntively (Figure 2b). Scanning electron microscopy (SEM) images \nrevealed the emergence of polyhedron particles (Figure S2, \nSupporting Information) after galvanic replacement, which was \nascribed to the surface etching by chlorine ion.[17] High-angle \nannular dark-field scanning transmission electron microscopy \nimage (HAADF-STEM) also confirmed the dendritic mor-\nphology of the Cu3Ag1 catalyst (Figure",
+      "conclusion": "In summary, we have developed an electron-deficient Cu3Ag1 \ncatalyst through interphase electron transfer strategy. The intro-\nduction of Ag into Cu facilitated electron transfer from Cu to \nAg, which generated electron-deficient Cu sites in the Cu3Ag1 \ncatalyst. DFT calculations confirmed that the electron-defi-\ncient Cu sites particularly favored the adsorption of key ECR \nintermediates in the alcohol pathway such as CH3CHO* and \nCH3CH2O*. This finding was verified by the electrocatalytic \nperformance of CO2-to-alcohol using the Cu3Ag1 catalyst. Our \nwork has revealed the electron-deficient state of Cu atoms in \nCu3Ag1 catalysts with ECR-to-alcohol selectivity and activity, \nand suggested new opportunities for designing highly alcohol- \nselective ECR catalysts.\nSupporting Information\nSupporting Information is available from the Wiley Online Library or \nfrom the author.\nAcknowledgements\nX.L. and L.S. contributed equally to this work. The authors thank the \nfollowing funding agencies for supporting this work: the National \nKey Research and Development Program of China (2017YFA0206901 \nand 2018YFA0209401), the Natural Science Foundation of China \n(21975051 and 21773036), the Science"
+    },
+    "summary": "www.advenergymat.de\n2001987  (1 of 8)\n© 2020 Wiley-VCH GmbH\nFull Paper\nElectron-Deficient Cu Sites on Cu3Ag1 Catalyst Promoting \nCO2 Electroreduction to Alcohols\nXimeng Lv, Longmei Shang, Si Zhou,* Si Li, Yuhang Wang, Zhiqiang Wang, \nTsun-Kong Sham, Chen Peng, and Gengfeng Zheng*\nDOI: 10.1002/aenm.202001987\ncarbon sources through different tech-\nnical routes,[1] which either have negative \nenvironmental impacts or deliver a poor \natomic economy while being energy inten-\nsive.[2] For instance, the life-cycle green-\nhouse gas emission for producing a liter \nof bioethanol is ≈1.6 kg CO2 equivalent.[3] \nFor fuel ethanol with a global production \nof ≈104 billion liters per year,[4] the annual \nCO2 emission is more than 170 million \nmetric tons, corresponding to 0.5% of the \nglobal annual overal",
+    "records": [
+      {
+        "doi": "10.1002/aenm.202001987",
+        "title": "Electron-Deficient Cu Sites on Cu(3)Ag(1)Catalyst Promoting CO(2)Electroreduction to Alcohols",
+        "year": "2020.0",
+        "catalyst_name": "Cu(3)Ag(1) Catalyst",
+        "catalyst_type": "Cu-M",
+        "product_raw": "C2H5OH",
+        "product": "C2H5OH",
+        "fe_pct": "63.0",
+        "voltage_V": "-0.95",
+        "electrolyte": "KHCO3",
+        "cell_setup": "flow cell",
+        "current_density_mA_cm2": "",
+        "synthesis_method": "electrodeposition",
+        "product_rank": "",
+        "is_representative": "",
+        "voltage_reference": "",
+        "evidence_text": "",
+        "evidence_section": "",
+        "extraction_model": "",
+        "review_model": "",
+        "review_status": "",
+        "ingested_at": "",
+        "source_pdf": ""
+      }
+    ]
+  },
+  {
+    "pdf_file": "electrochemical-co2-conversion-using-skeleton-%28sponge%29-type-of-cu-catalysts.pdf",
+    "doi": "10.1021/acscatal.7b01548",
+    "title": "Electrochemical CO2 Conversion Using Skeleton (Sponge) Type of Cu Catalysts",
+    "sample_only": true,
+    "full_text_chars": 1200,
+    "sections": {
+      "abstract": "Electrochemical CO2 Conversion Using Skeleton (Sponge) Type of Cu\nCatalysts\nAbhijit Dutta,≠Motiar Rahaman,≠Miklos Mohos, Alberto Zanetti, and Peter Broekmann*\nDepartment of Chemistry and Biochemistry, University of Bern, Freiestrasse 3, Bern 3012, Switzerland\n*\nS Supporting Information\nABSTRACT: Highly porous 3D Cu skeletons (sponges)\nmodiﬁed by electropolishing, thermal annealing, and foam\nelectrodeposition have been studied as catalysts for the\nelectrochemical conversion of CO2 with a particular emphasis\non C2 products formation. These catalyst materials appear to\nbe promising for future applications where gaseous CO2\nreactants can be transported through the 3D catalyst thereby\ntuning the mean residence time of reaction intermediates\ninside the catalyst, which crucially inﬂuences the ﬁnal product\ndistribution. In particular, the annealed skeleton (300 °C, 12\nh) and the one modiﬁed by Cu foam electrodeposition show\nprofound activities toward C2 product formation (C2H4,\nC2H6) with faradaic eﬃciencies reaching FEC2 = 32.3% (annealed skeleton sample, −1.1 V vs RHE) and FEC2 = 29.1%\n(electrodeposited sample, −1.1 V vs RHE), whereas the electropolished Cu skeleton remains largely inact",
+      "experimental": "",
+      "results": "",
+      "conclusion": ""
+    },
+    "summary": "Electrochemical CO2 Conversion Using Skeleton (Sponge) Type of Cu\nCatalysts\nAbhijit Dutta,≠Motiar Rahaman,≠Miklos Mohos, Alberto Zanetti, and Peter Broekmann*\nDepartment of Chemistry and Biochemistry, University of Bern, Freiestrasse 3, Bern 3012, Switzerland\n*\nS Supporting Information\nABSTRACT: Highly porous 3D Cu skeletons (sponges)\nmodiﬁed by electropolishing, thermal annealing, and foam\nelectrodeposition have been studied as catalysts for the\nelectrochemical conversion of CO2 with a particular emphasis\non C2 products formation. These catalyst materials appear to\nbe promising for future applications where gaseous CO2\nreactants can be transported through the 3D catalyst thereby\ntuning the mean residence time of reaction intermediates\ninside the catalyst, which crucially inﬂuences the ﬁna",
+    "records": [
+      {
+        "doi": "10.1021/acscatal.7b01548",
+        "title": "Electrochemical CO2 Conversion Using Skeleton (Sponge) Type of Cu Catalysts",
+        "year": "2017.0",
+        "catalyst_name": "Annealed Cu skeleton",
+        "catalyst_type": "Cu/CuxO composite",
+        "product_raw": "H2",
+        "product": "H2",
+        "fe_pct": "43.0",
+        "voltage_V": "-0.8",
+        "electrolyte": "0.5 M NaHCO3",
+        "cell_setup": "Half-cell, CO2-saturated electrolyte",
+        "current_density_mA_cm2": "",
+        "synthesis_method": "Thermal annealing of Cu skeleton at 300 °C for 12 h",
+        "product_rank": "secondary",
+        "is_representative": "False",
+        "voltage_reference": "RHE",
+        "evidence_text": "FEH2 values of the electrodeposited and the annealed samples are well below the ones of the electropolished sample with a minimum of 51% and 43%, respectively, at −0.8 V.",
+        "evidence_section": "results",
+        "extraction_model": "DeepSeek-V3.2",
+        "review_model": "",
+        "review_status": "single_model_validated",
+        "ingested_at": "2026-08-20T11:24:13",
+        "source_pdf": "electrochemical-co2-conversion-using-skeleton-%28sponge%29-type-of-cu-catalysts.pdf"
+      }
+    ]
+  },
+  {
+    "pdf_file": "s12274-017-1936-1.pdf",
+    "doi": "10.1007/s12274-017-1936-1",
+    "title": "Ultra-small Cu nanoparticles embedded in N-doped carbon arrays for electrocatalytic CO2 reduction reaction in dimethylformamide",
+    "sample_only": true,
+    "full_text_chars": 3600,
+    "sections": {
+      "abstract": "Ultra-small Cu nanoparticles embedded in N-doped\ncarbon arrays for electrocatalytic CO2 reduction reaction\nin dimethylformamide \nXiaolong Zhang1, Ying Zhang1,2, Fengwang Li1,2, Christopher D. Easton3, Alan M. Bond1,2, and Jie Zhang1,2 ()\n \n1 School of Chemistry, Monash University, Clayton 3800, VIC, Australia \n2 ARC Centre of Excellence for Electromaterials Science, Monash University, Clayton 3800, VIC, Australia \n3 CSIRO Manufacturing, Bayview Avenue, Clayton 3168, VIC, Australia \n \n \n \nReceived: 19 September 2017 \nRevised: 4 November 2017 \nAccepted: 25 November 2017 \n \n© Tsinghua University Press \nand Springer-Verlag GmbH \nGermany, part of Springer \nNature 2017 \n \nKEYWORDS \ncopper \ntetracyanoquinodimethane \n(CuTCNQ), \ncopper, \ncarbon arrays, \nCO2 reduction,  \nelectrocatalysis \n ABSTRACT \nThe development of heterogeneous catalysts with a well-defined micro structure\nto promote their activity and stability for electrocatalytic CO2 reduction has \nbeen shown to be a promising strategy. In this work, Cu nanoparticles (~ 4 nm \nin diameter) embedded in N-doped carbon (Cu@NC) arrays were fabricated by \nthermal decomposition of copper tetracyanoquinodimethane (CuTCNQ) under\nN2. Compared ",
+      "experimental": "",
+      "results": "3.1 Material characterization \nTo prepare the Cu@NC arrays, a thin film of CuTCNQ \non Cu substrate was first synthesized by a facile solution \nbased spontaneous redox reaction as described in \nthe Experimental section. Figure 1(a) shows the SEM \nimage of the CuTCNQ thin film, showing that it  \n \nFigure 1 (a) and (b) SEM images of the CuTCNQ film. (c) and \n(d) SEM images and (e) cross-section view of the Cu@NC \nhybrid arrays. (f) and (g) TEM and (h) and (i) HRTEM images of \na Cu@NC micro rod. (j) EDX mapping images of the Cu@NC \nrods containing C, Cu, N, and O. \n\n \n | www.editorialmanager.com/nare/default.asp \n3682\nNano Res. 2018, 11(7): 3678–3690\nconsists of closely packed horizontally aligned micro \nrods. As can be seen in the images under a larger \nmagnification (Fig. 1(b)), the micro rods are composed \nof bundles of smaller rods with diameters in the several \nhundred-nanometer range. EDX spectra (Fig. S1 in the \nElectronic Supplementary Material (ESM)) measured \non the surface of the thin films confirm the presence \nof Cu, C, and N, corresponding to the chemical com-\nposition of CuTCNQ. \nThe CuTCNQ thin film was carbonized at high \ntemperature under an N2 atmosphere. The as-obta",
+      "conclusion": "A Cu electrode modified with ultra-small Cu nano-\nparticles (~ 4 nm diameter) embedded in N-doped \ncarbon arrays was fabricated using CuTCNQ arrays as \na sacrificial template. The Cu@NC modified electrode \nenables highly controlled CO2 reduction to CO and \nformate in DMF (0.1 M Bu4NPF6) containing 0.5 vol.% \nH2O and maintains stable catalytic activity for over \n6 h under electrolytic conditions. The water content in \nthe DMF electrolyte medium acts as the sole proton \nsource for CO2 reduction, with a higher water content \nleading to the formation of more formate and \nhydrogen, and less CO. Under optimized conditions \nat –2.4 V vs. Fc/Fc+ with 0.5 vol.% water, a product \ndistribution of 64% formate, 20% CO, and 13% H2 was \nobtained, which was rationalized by the competition \nof the CO and formate formation pathways. The \nCO-forming pathway lacks efficiency at low applied \npotential because the formation of *C2O4\n•– is not \nthermodynamically favorable. However, at more \nnegative potentials, the polarizable CO2\n•– radical anion \nelectrostatically interacts with the negative charge \non the electrode surface. Control experiments and \n \nFigure 7 (a) High resolution Cu 2p spectra and (b) "
+    },
+    "summary": "Ultra-small Cu nanoparticles embedded in N-doped\ncarbon arrays for electrocatalytic CO2 reduction reaction\nin dimethylformamide \nXiaolong Zhang1, Ying Zhang1,2, Fengwang Li1,2, Christopher D. Easton3, Alan M. Bond1,2, and Jie Zhang1,2 ()\n \n1 School of Chemistry, Monash University, Clayton 3800, VIC, Australia \n2 ARC Centre of Excellence for Electromaterials Science, Monash University, Clayton 3800, VIC, Australia \n3 CSIRO Manufacturing, Bayview Avenue, Clayton 3168, VIC, Australia \n \n \n \nReceived: 19 September 2017 \nRevised: 4 November 2017 \nAccepted: 25 November 2017 \n \n© Tsinghua University Press \nand Springer-Verlag GmbH \nGermany, part of Springer \nNature 2017 \n \nKEYWORDS \ncopper \ntetracyanoquinodimethane \n(CuTCNQ), \ncopper, \ncarbon arrays, \nCO2 reduction,  \nelectrocatalysis \n ABSTRACT",
+    "records": [
+      {
+        "doi": "10.1007/s12274-017-1936-1",
+        "title": "Ultra-small Cu nanoparticles embedded in N-doped carbon arrays for electrocatalytic CO2 reduction reaction in dimethylformamide",
+        "year": "2018.0",
+        "catalyst_name": "Cu@NC arrays",
+        "catalyst_type": "Cu nanoparticles embedded in N-doped carbon arrays",
+        "product_raw": "H2",
+        "product": "H2",
+        "fe_pct": "13.0",
+        "voltage_V": "-2.4",
+        "electrolyte": "DMF (0.1 M Bu4NPF6) with 0.5 vol.% water",
+        "cell_setup": "Three-electrode H-cell, Pt mesh counter, Ag wire quasi-reference (calibrated vs. Fc/Fc+)",
+        "current_density_mA_cm2": "",
+        "synthesis_method": "Thermal decomposition of copper tetracyanoquinodimethane (CuTCNQ) at 500 °C under N2",
+        "product_rank": "secondary",
+        "is_representative": "False",
+        "voltage_reference": "Fc/Fc+",
+        "evidence_text": "Under optimized conditions at –2.4 V vs. Fc/Fc+ with 0.5 vol.% water, a product distribution of 64% formate, 20% CO, and 13% H2 was obtained",
+        "evidence_section": "conclusion",
+        "extraction_model": "DeepSeek-V3.2",
+        "review_model": "",
+        "review_status": "single_model_validated",
+        "ingested_at": "2026-08-20T11:24:13",
+        "source_pdf": "s12274-017-1936-1.pdf"
+      }
+    ]
+  }
+]

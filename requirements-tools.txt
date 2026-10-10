@@ -1,0 +1,10 @@
+# Optional PDF, graph and ML utilities.
+-r requirements-app.txt
+PyMuPDF
+requests
+networkx
+matplotlib
+pyvis
+xgboost
+xlrd
+openpyxl

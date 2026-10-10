@@ -1,0 +1,53 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 虚拟环境
+.venv/
+.venv-*/
+venv/
+
+# 敏感密钥与本地配置
+.env
+.admin_password
+.claude/
+
+# 运行产生的大文件与数据
+*.log
+outputs/
+chromadb_kb/
+
+# 模型与权重文件（千万不要进 Git）
+*.pt
+*.pth
+*.bin
+*.safetensors
+**/checkpoint-*/
+
+# 原始论文与压缩包
+pdfs/
+literatures-pdf/
+*.zip
+*.tar.gz
+
+# 系统及编辑器配置
+.DS_Store
+.vscode/
+.idea/
+
+# Additional private files, generated graph data and writing materials
+.env.*
+!.env.example
+*.pem
+*.key
+api
+api.txt
+*credentials*.json
+relation_extraction_results/
+gold_corpus/
+incoming_papers/
+*.pdf
+*.7z
+*.rar
+manuscript*/
+**/manuscript*/

@@ -1,0 +1,22 @@
+{
+  "min_text_chars": 1500,
+  "max_input_chars": 55000,
+  "primary": {
+    "base_url": "https://your-primary-provider.example/v1",
+    "model": "your-glm-or-kimi-model",
+    "api_key_env": "CO2RR_PRIMARY_API_KEY",
+    "temperature": 0,
+    "max_tokens": 3500,
+    "timeout": 180,
+    "response_format": true
+  },
+  "reviewer": {
+    "base_url": "https://your-review-provider.example/v1",
+    "model": "your-independent-review-model",
+    "api_key_env": "CO2RR_REVIEW_API_KEY",
+    "temperature": 0,
+    "max_tokens": 3500,
+    "timeout": 180,
+    "response_format": true
+  }
+}
